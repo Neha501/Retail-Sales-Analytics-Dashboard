@@ -105,12 +105,7 @@ Highlights most valuable customers.
 
 ## 📸 Dashboard Preview
 
-*(Add dashboard screenshot here)*  
-
-Example:  
-```
 ![Dashboard](images/dashboard.png)
-```
 
 ---
 
